@@ -1,0 +1,18 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<QueryDate>
+	<Condition>
+		<Table>_DimShippers</Table>
+		<Column>ShipCountry</Column>>
+		<Argument>Canada</Argument>
+	</Condition>
+	<Condition>
+		<Table>_DimShippers</Table>
+		<Column>ShipCountry</Column>>
+		<Argument>France</Argument>
+	</Condition>
+	<Condition>
+		<Table>_DimProducts</Table>
+		<Column>Category</Column>>
+		<Argument>Produce</Argument>
+	</Condition>
+</QueryDate>
